@@ -1,1 +1,106 @@
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:0.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace, monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}input[type="search"]{-webkit-appearance:textfield;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{background:#fff}body{font-family:"Lora", "Minion Pro", Palatino, Georgia, serif;color:#333;font-size:16px;line-height:1.5}.wrapper:before,.wrapper:after{content:"";display:table}.wrapper:after{clear:both}.wrapper{max-width:728px;padding:0 24px;margin:0 auto;zoom:1}.group:before,.group:after{content:"";display:table}.group:after{clear:both}.group{zoom:1}::-moz-selection{background:rgba(51,51,51,0.8);color:#fff;text-shadow:none}::selection{background:rgba(51,51,51,0.8);color:#fff;text-shadow:none}.container{width:980px;margin-right:auto;margin-left:auto}.container:before{display:table;content:""}.container:after{display:table;clear:both;content:""}.columns{margin-right:-10px;margin-left:-10px}.columns:before{display:table;content:""}.columns:after{display:table;clear:both;content:""}.column{float:left;padding-right:10px;padding-left:10px}.one-third{width:33.333333%}.two-thirds{width:66.666667%}.one-fourth{width:25%}.one-half{width:50%}.three-fourths{width:75%}.one-fifth{width:20%}.four-fifths{width:80%}.single-column{padding-right:10px;padding-left:10px}.table-column{display:table-cell;width:1%;padding-right:10px;padding-left:10px;vertical-align:top}.section-header{border-top:4px solid #c7c7c7;border-bottom:2px solid #c7c7c7;padding:.2rem 0 .4rem;margin-bottom:1.5rem}.section-header h2{font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight:900;font-size:1.75rem;letter-spacing:-.05rem;margin:0}.page-header{padding:1.5rem 0}.page-header .avatar{width:95px;max-width:100%;overflow:hidden;-webkit-border-radius:100px;-moz-border-radius:100px;border-radius:100px;margin:0 auto;display:block}.page-header .header-name{font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;font-size:3rem;font-weight:900;text-align:center;letter-spacing:-.15rem;line-height:1;margin:1rem 0 2rem}.page-header .title-bar{border-top:4px solid #c7c7c7;border-bottom:2px solid #c7c7c7;padding:.2rem 0 .4rem;padding:.4rem 0}.page-header .title-bar:before{display:table;content:""}.page-header .title-bar:after{display:table;clear:both;content:""}.page-header .title-bar .header-title{font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight:300;font-size:1.75rem;line-height:2rem;letter-spacing:-.05rem;text-align:center;margin:0 0 .5rem}@media (min-width: 600px){.page-header .title-bar .header-title{float:left;margin:0}}@media (min-width: 600px){.page-header .executive-summary{font-size:1.125rem}}.icon-links{margin:0;padding:0;list-style:none;position:relative;top:4px;text-align:center;border-top:2px solid #c7c7c7;padding-top:.4rem}@media (min-width: 600px){.icon-links{float:right;border-top:none;padding-top:0}}.icon-links .icon-link-item{display:inline-block;margin-left:5px}.icon-links .icon-link{display:inline-block}.icon-links .icon-link:hover .icon path{fill:#333;-webkit-transition:all 0.2s ease;-moz-transition:all 0.2s ease;transition:all 0.2s ease}.contact-button{-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;background-color:#efefef;text-decoration:none;text-align:center;display:block;margin:1.5rem auto;width:220px;font-size:1.375rem;font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight:300;color:#333;line-height:55px;-webkit-transition:all 0.2s ease;-moz-transition:all 0.2s ease;transition:all 0.2s ease}.contact-button:hover{background-color:#333;color:#fff}.contact-button.not-looking{width:400px}.content-section{margin:0 0 3rem}.content-section .resume-item{margin-bottom:2rem}.content-section .resume-item-title{font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight:700;margin:0 0 .75rem;font-size:1.5rem;letter-spacing:-.05rem;line-height:1}.content-section .resume-item-details{font-size:1.125rem;margin:0 0 .75rem;line-height:1}.content-section .resume-item-title a,.content-section .resume-item-details a,.content-section .resume-item-copy a,.content-section .resume-item-list a{color:#333;text-decoration:none;border-bottom:1px solid}.content-section .resume-item-title a:hover,.content-section .resume-item-details a:hover,.content-section .resume-item-copy a:hover,.content-section .resume-item-list a:hover{border-bottom:none;color:#9c9c9c}.content-section .resume-item-copy{margin:.75rem 0 0}.page-footer{border-top:4px solid #c7c7c7;padding-top:1.5rem;text-align:center;margin-bottom:3rem}.page-footer .footer-line{margin:0;font-size:.875rem;color:#999}.page-footer .footer-line>a{font-weight:700;color:#333}
+
+<html>
+<head>
+<link rel="stylesheet" href="styles/nanocluster.css" type="text/css"> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+<link rel="shortcut icon" href="favicon.ico">
+
+<title>Bawendi Group</title>
+
+</head>
+
+<body text="#ffffff">
+
+<div id="body">
+	<div id="main_header">
+		<table border='0' cellpadding='0' cellspacing='0'>
+			<tr>
+				<td width='100' align='center'><a href='index.php' style='text-decoration:none'>Home</a></td>
+				<td width='100' align='center' ><a href='research.php' style='text-decoration:none'>Research</a></td>
+				<td width='100' align='center' ><a href='people.php' style='text-decoration:none'>People</a></td>
+				<td width='100' align='center' ><a href='publications.php' style='text-decoration:none'>Publications</a></td>
+				<td width='100' align='center' ><a href='media.php' style='text-decoration:none'>Media</a></td>
+				<td width='100' align='center' ><a href='pubgal.php' style='text-decoration:none'>Photo Gallery</a></td>
+				<td width='100' align='center'><a href='https://nanocluster.mit.edu' style='text-decoration:none'>[Intranet]</a></td>
+			</tr>
+		</table>  
+	</div>
+
+	<br />
+
+<!-- enclosed in footer.php -->
+
+<div id="banner" style="top:2px;">
+	
+	<table border='0' cellpadding='0' cellspacing='0'>
+		<tr>
+			<td><img src='images/vials_rubenstein.png' class='ImageNoSpace' />
+			</td>
+			<td class='banner_caption'> 
+				Colloidal CdSe quantum dots dispersed in hexane. Quantum confinement effects allow quantum-dot color to be tuned with particle size.
+			</td>
+		</tr>
+	</table><br /></div>
+
+<div id="container">
+	<div id="main_content_container">
+		<div id='calendar_box'>
+			<br/>
+			<center>
+				<font style="font-size:14px;">Welcome to the Bawendi group at the MIT Department of Chemistry</font>
+			 </center>
+			<br />
+			<center>
+				<a href="images/group_photos/group_photo_2014_river.jpg">
+					<img width=800px src='images/group_photos/group_photo_2014_river_small.jpg' border='0px'>
+				</a>
+			</center>
+			<br />
+		</div>
+	</div>
+	<hr />
+
+</div> 
+<br/>
+
+<center><!-- Start of StatCounter Code -->
+<script type="text/javascript">
+	var sc_project=2760234; 
+	var sc_invisible=1; 
+	var sc_partition=28; 
+	var sc_security="5b436d92"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script> 
+<noscript>
+	<div class="statcounter">
+		<a class="statcounter" href="http://www.statcounter.com/">
+			<img class="statcounter" src="http://c29.statcounter.com/2760234/0/5b436d92/0/" alt="web metrics" />
+		</a>
+	</div>
+</noscript>
+<!-- End of StatCounter Code -->
+</center>
+<br />
+
+</div> <!-- enclosure from header.php -->
+<br /><br />
+
+<div id="lower_banner">
+	<table>
+		<tr>
+			<td>
+				<a href="http://web.mit.edu"><img src="/images/mit-greywhite-footer1.gif" border="0"></a>
+			</td>
+			<td class="banner_caption">Bawendi Group&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(<a href="http://nanocluster.mit.edu/images/laser_lab_a_environment_latest.pdf">Laser Lab A Weather</a>)<br>
+				 <a href="http://chemistry.mit.edu/">Department of Chemistry</a><br />
+				77 Massachusetts Ave. <a href="http://whereis.mit.edu/map-jpg?mapterms=2-216&mapsearch=go">Room 2-216</a><br />
+				Cambridge MA  02139<br>
+				tel 617 253 8594  fax 617 452 2708 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Webmaster: <a href='mailto:hutzat [at] mit.edu'>Hendrik Utzat</a>
+			</td>
+		</tr>
+	</table>
+</div>
+
+</body>
+</html>
